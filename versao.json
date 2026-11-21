@@ -1,11 +1,12 @@
 {
-  "versionCode": 38,
-  "versionName": "v38",
+  "versionCode": 40,
+  "versionName": "v40",
   "notes": [
-    "Melhorar com IA: deixa a figurinha mais nítida e limpa (uma ou o pacote inteiro)",
-    "Animadas: escolha a velocidade (0,5× a 2×) e sugestão quando o FPS fica baixo",
-    "Animadas com ritmo regular, sem tropeços no loop",
-    "Estáticas mais nítidas"
+    "Melhorar com IA: nova IA para anime, desenho, 3D e foto, com força Leve, Média ou Forte",
+    "Animadas: corrigida a boca travando quando só uma parte pequena se mexe",
+    "Animadas: ver outras combinações de FPS e qualidade e escolher a sua",
+    "Ajustes: prioridade Fluidez ou Nitidez nas animadas",
+    "Animadas: velocidade de 0,5× a 2×"
   ],
-  "url": "https://drive.google.com/file/d/15Ix-Fa3C3npLjFzaOxykSbdCqsYktq8v/view?usp=drivesdk"
+  "url": "https://drive.google.com/file/d/1AbTUrWyt_Gz7VUVI03tx1cjb-SD7Rts5/view?usp=drivesdk"
 }
