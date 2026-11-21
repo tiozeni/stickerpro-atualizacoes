@@ -1,9 +1,11 @@
 {
-  "versionCode": 34,
-  "versionName": "v34",
+  "versionCode": 38,
+  "versionName": "v38",
   "notes": [
-    "Aviso de nova versão: o app avisa sozinho quando sair atualização",
-    "Ajustes → Atualizações: ligar, desligar e procurar agora"
+    "Melhorar com IA: deixa a figurinha mais nítida e limpa (uma ou o pacote inteiro)",
+    "Animadas: escolha a velocidade (0,5× a 2×) e sugestão quando o FPS fica baixo",
+    "Animadas com ritmo regular, sem tropeços no loop",
+    "Estáticas mais nítidas"
   ],
-  "url": "https://drive.google.com/drive/folders/1h44wSzFxFM4joZLLBOJQqO2Oa94yv9Jx"
+  "url": "https://drive.google.com/file/d/15Ix-Fa3C3npLjFzaOxykSbdCqsYktq8v/view?usp=drivesdk"
 }
