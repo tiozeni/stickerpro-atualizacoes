@@ -1,11 +1,11 @@
 {
-  "versionCode": 41,
-  "versionName": "v41",
+  "versionCode": 42,
+  "versionName": "v42",
   "notes": [
-    "Animadas sem \"derretido\" quando a câmera dá zoom ou se mexe devagar",
-    "Sem riscos e cantinhos em volta do que se mexe; a cor acompanha a luz",
-    "Novidades: o app mostra o que mudou ao atualizar (e em Ajustes → Novidades)",
-    "Aviso de nova versão de hora em hora"
+    "Animadas: movimentos lentos não congelam mais",
+    "Vídeos pesados com menos blocos, linhas e borrões",
+    "Filtro anti-blocos automático na figurinha final",
+    "\"Ver outras combinações\" com muito mais opções"
   ],
-  "url": "https://drive.google.com/file/d/1e9MNcY0yUWvQMGCZnEl7TW8BqsckozCJ/view?usp=drivesdk"
+  "url": "https://drive.google.com/file/d/18LEqO53_JwFEw_P3t9myYyvTJIFxPzwT/view?usp=drivesdk"
 }
