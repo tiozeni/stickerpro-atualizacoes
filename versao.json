@@ -1,12 +1,12 @@
 {
-  "versionCode": 44,
-  "versionName": "v44",
+  "versionCode": 45,
+  "versionName": "v45",
   "notes": [
-    "Animadas sem traços: novo motor com bordas suaves",
-    "Menos \"derretido\" em mudanças lentas",
-    "Sem a linha que o WhatsApp desenhava nas animadas",
-    "Perfeito no WhatsApp: quadros completos quando cabe",
-    "\"Procurar agora\" acha a versão nova na hora"
+    "Selecionar várias: excluir, duplicar, mover e substituir",
+    "Passou de 30? O resto vai para \"Nome - 02\"",
+    "Aviso de figurinhas repetidas e estatísticas do pacote",
+    "Perfil de maker: autor já preenchido nos pacotes novos",
+    "Ajustes de foto estilo Lightroom e prévia fixa no editor"
   ],
-  "url": "https://drive.google.com/file/d/1WP6uRYB6MATj3IUgBMg7XY21cO84STbp/view?usp=drivesdk"
+  "url": "https://drive.google.com/file/d/1tLYN6NGUZKSrbni_qTV3lZRQ7DiWMj_q/view?usp=drivesdk"
 }
