@@ -1,13 +1,11 @@
 {
-  "versionCode": 40,
-  "versionName": "v40",
+  "versionCode": 41,
+  "versionName": "v41",
   "notes": [
-    "🚀 Grande atualização: tudo o que saiu desde a v36",
-    "Melhorar com IA: nova IA para anime, desenho, 3D e foto, com força Leve, Média ou Forte",
-    "Animadas: corrigida a boca travando quando só uma parte pequena se mexe",
-    "Animadas: ver outras combinações de FPS e qualidade e escolher a sua",
-    "Ajustes: prioridade Fluidez ou Nitidez nas animadas",
-    "Animadas: velocidade de 0,5× a 2×"
+    "Animadas sem \"derretido\" quando a câmera dá zoom ou se mexe devagar",
+    "Sem riscos e cantinhos em volta do que se mexe; a cor acompanha a luz",
+    "Novidades: o app mostra o que mudou ao atualizar (e em Ajustes → Novidades)",
+    "Aviso de nova versão de hora em hora"
   ],
-  "url": "https://drive.google.com/file/d/1AbTUrWyt_Gz7VUVI03tx1cjb-SD7Rts5/view?usp=drivesdk"
+  "url": "https://drive.google.com/file/d/1e9MNcY0yUWvQMGCZnEl7TW8BqsckozCJ/view?usp=drivesdk"
 }
