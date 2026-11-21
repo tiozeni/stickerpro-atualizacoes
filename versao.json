@@ -1,11 +1,12 @@
 {
-  "versionCode": 42,
-  "versionName": "v42",
+  "versionCode": 44,
+  "versionName": "v44",
   "notes": [
-    "Animadas: movimentos lentos não congelam mais",
-    "Vídeos pesados com menos blocos, linhas e borrões",
-    "Filtro anti-blocos automático na figurinha final",
-    "\"Ver outras combinações\" com muito mais opções"
+    "Animadas sem traços: novo motor com bordas suaves",
+    "Menos \"derretido\" em mudanças lentas",
+    "Sem a linha que o WhatsApp desenhava nas animadas",
+    "Perfeito no WhatsApp: quadros completos quando cabe",
+    "\"Procurar agora\" acha a versão nova na hora"
   ],
-  "url": "https://drive.google.com/file/d/18LEqO53_JwFEw_P3t9myYyvTJIFxPzwT/view?usp=drivesdk"
+  "url": "https://drive.google.com/file/d/1WP6uRYB6MATj3IUgBMg7XY21cO84STbp/view?usp=drivesdk"
 }
