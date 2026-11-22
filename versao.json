@@ -1,12 +1,12 @@
 {
-  "versionCode": 48,
-  "versionName": "v48",
+  "versionCode": 49,
+  "versionName": "v49",
   "notes": [
-    "Agora o acesso é por e-mail: entre com sua conta Google",
-    "Pacotes grandes: até 90, divididos em partes no WhatsApp",
-    "Modelos com nome e autor para reaproveitar",
-    "Lixeira: recupere figurinhas excluídas por 30 dias",
-    "Sua conta com foto e nome em Ajustes"
+    "Pacotes grandes: 30 por parte, cada uma com seu ícone",
+    "Divisórias na grade mostram o que vai em cada parte",
+    "Excluiu sem querer? Toque em Desfazer",
+    "Nick e WhatsApp para identificar você",
+    "Sem acesso? Peça direto pelo app"
   ],
-  "url": "https://drive.google.com/file/d/1MWPCdupQdjGeUMX_fbXgFJI5-39PW67L/view?usp=drivesdk"
+  "url": "https://drive.google.com/file/d/1gEKCAPc7VfX2Hcc6gi9QakvyaTC8Fsy-/view?usp=drivesdk"
 }
