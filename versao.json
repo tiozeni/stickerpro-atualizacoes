@@ -1,12 +1,12 @@
 {
-  "versionCode": 45,
-  "versionName": "v45",
+  "versionCode": 48,
+  "versionName": "v48",
   "notes": [
-    "Selecionar várias: excluir, duplicar, mover e substituir",
-    "Passou de 30? O resto vai para \"Nome - 02\"",
-    "Aviso de figurinhas repetidas e estatísticas do pacote",
-    "Perfil de maker: autor já preenchido nos pacotes novos",
-    "Ajustes de foto estilo Lightroom e prévia fixa no editor"
+    "Agora o acesso é por e-mail: entre com sua conta Google",
+    "Pacotes grandes: até 90, divididos em partes no WhatsApp",
+    "Modelos com nome e autor para reaproveitar",
+    "Lixeira: recupere figurinhas excluídas por 30 dias",
+    "Sua conta com foto e nome em Ajustes"
   ],
-  "url": "https://drive.google.com/file/d/1tLYN6NGUZKSrbni_qTV3lZRQ7DiWMj_q/view?usp=drivesdk"
+  "url": "https://drive.google.com/file/d/1MWPCdupQdjGeUMX_fbXgFJI5-39PW67L/view?usp=drivesdk"
 }
