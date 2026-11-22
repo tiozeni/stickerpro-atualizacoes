@@ -1,14 +1,13 @@
 {
-  "versionCode": 55,
-  "versionName": "54",
-  "title": "Sticker Pro 54 · Prévia fixa, IA em lote e busca de pacotes",
+  "versionCode": 56,
+  "versionName": "54.1",
+  "title": "Sticker Pro 54.1 · Partes sem número no WhatsApp",
   "notes": [
-    "Botões do GIPHY no editor acima da barra do celular",
-    "Prévia fixa no editor, também com o teclado aberto",
-    "Estáticas mais rápidas, com a mesma qualidade",
-    "Melhorar com IA nas figurinhas selecionadas",
-    "Apelido e busca de pacotes (inclui as novidades da v52 e da v53)"
+    "Pacotes com mais de 30 vão ao WhatsApp só com o nome, sem \"(1/3)\"",
+    "As partes continuam separadas, cada uma com seu ícone",
+    "Pacotes já enviados se atualizam sozinhos",
+    "Inclui todas as novidades da v54"
   ],
-  "url": "https://drive.google.com/file/d/1-dnNU9QpM9h_zLxM8XcdxWM5Px5ofhgu/view?usp=drivesdk",
+  "url": "https://drive.google.com/file/d/1LsRZNZwThPl4M_HZ1922QIN5Bd64Q1hx/view?usp=drivesdk",
   "kyotoUrl": ""
 }
