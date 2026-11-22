@@ -1,12 +1,14 @@
 {
-  "versionCode": 49,
-  "versionName": "v49",
+  "versionCode": 51,
+  "versionName": "50",
+  "title": "Sticker Pro 50 · A maior atualização visual",
   "notes": [
-    "Pacotes grandes: 30 por parte, cada uma com seu ícone",
-    "Divisórias na grade mostram o que vai em cada parte",
-    "Excluiu sem querer? Toque em Desfazer",
-    "Nick e WhatsApp para identificar você",
-    "Sem acesso? Peça direto pelo app"
+    "5 temas, visual novo e Comunidade Kyoto",
+    "Temas: Vidro, Clássico, Claro, Preto (OLED) e Midnight",
+    "\"Seguir o celular\" e \"Aumentar contraste\" em Ajustes",
+    "Comunidade Kyoto, parceira oficial, na tela inicial",
+    "O app abre na cor do seu tema"
   ],
-  "url": "https://drive.google.com/file/d/1gEKCAPc7VfX2Hcc6gi9QakvyaTC8Fsy-/view?usp=drivesdk"
+  "url": "https://drive.google.com/file/d/1uAvY1lzxa72b89SInO-KSJbPW00tscvt/view?usp=drivesdk",
+  "kyotoUrl": ""
 }
