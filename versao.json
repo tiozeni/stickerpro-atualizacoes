@@ -1,14 +1,14 @@
 {
-  "versionCode": 52,
-  "versionName": "51",
-  "title": "Sticker Pro 51 · GIPHY e lixeira de pacotes",
+  "versionCode": 55,
+  "versionName": "54",
+  "title": "Sticker Pro 54 · Prévia fixa, IA em lote e busca de pacotes",
   "notes": [
-    "GIFs do GIPHY dentro do app, com Salvos e Compartilhar",
-    "Pacotes grandes: Completar 30 ou Dividir igual",
-    "Prévia do Estúdio mais nítida",
-    "Linhas-guia com ímã e grade de terços",
-    "Lixeira de pacotes (30 dias, voltam iguais)"
+    "Botões do GIPHY no editor acima da barra do celular",
+    "Prévia fixa no editor, também com o teclado aberto",
+    "Estáticas mais rápidas, com a mesma qualidade",
+    "Melhorar com IA nas figurinhas selecionadas",
+    "Apelido e busca de pacotes (inclui as novidades da v52 e da v53)"
   ],
-  "url": "https://drive.google.com/file/d/1VzRJavx6FIfDaWaeUg8Rek85gWSBvSvs/view?usp=drivesdk",
+  "url": "https://drive.google.com/file/d/1-dnNU9QpM9h_zLxM8XcdxWM5Px5ofhgu/view?usp=drivesdk",
   "kyotoUrl": ""
 }
