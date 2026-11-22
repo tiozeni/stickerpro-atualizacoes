@@ -1,14 +1,14 @@
 {
-  "versionCode": 51,
-  "versionName": "50",
-  "title": "Sticker Pro 50 · A maior atualização visual",
+  "versionCode": 52,
+  "versionName": "51",
+  "title": "Sticker Pro 51 · GIPHY e lixeira de pacotes",
   "notes": [
-    "5 temas, visual novo e Comunidade Kyoto",
-    "Temas: Vidro, Clássico, Claro, Preto (OLED) e Midnight",
-    "\"Seguir o celular\" e \"Aumentar contraste\" em Ajustes",
-    "Comunidade Kyoto, parceira oficial, na tela inicial",
-    "O app abre na cor do seu tema"
+    "GIFs do GIPHY dentro do app, com Salvos e Compartilhar",
+    "Pacotes grandes: Completar 30 ou Dividir igual",
+    "Prévia do Estúdio mais nítida",
+    "Linhas-guia com ímã e grade de terços",
+    "Lixeira de pacotes (30 dias, voltam iguais)"
   ],
-  "url": "https://drive.google.com/file/d/1uAvY1lzxa72b89SInO-KSJbPW00tscvt/view?usp=drivesdk",
+  "url": "https://drive.google.com/file/d/1VzRJavx6FIfDaWaeUg8Rek85gWSBvSvs/view?usp=drivesdk",
   "kyotoUrl": ""
 }
