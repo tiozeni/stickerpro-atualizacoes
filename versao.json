@@ -1,13 +1,14 @@
 {
-  "versionCode": 56,
-  "versionName": "54.1",
-  "title": "Sticker Pro 54.1 · Partes sem número no WhatsApp",
+  "versionCode": 58,
+  "versionName": "55",
+  "title": "Sticker Pro 55 · Efeitos no Estúdio, seleção arrastando e IA mais fiel",
   "notes": [
-    "Pacotes com mais de 30 vão ao WhatsApp só com o nome, sem \"(1/3)\"",
-    "As partes continuam separadas, cada uma com seu ícone",
-    "Pacotes já enviados se atualizam sozinhos",
-    "Inclui todas as novidades da v54"
+    "Efeitos no Estúdio: Textura, Claridade, Desembaçar, Vinheta e Granulação",
+    "Ruído de cor em Detalhe",
+    "IA com Tom de pele natural e sem a linha clara em volta do traço",
+    "Arraste para selecionar e salve várias na galeria (PNG ou WebP)",
+    "Inclui a 54.2"
   ],
-  "url": "https://drive.google.com/file/d/1LsRZNZwThPl4M_HZ1922QIN5Bd64Q1hx/view?usp=drivesdk",
+  "url": "https://drive.google.com/file/d/1WdK1uVLvOCl4mNx1PrPS-TNvKIlXbGTh/view?usp=drivesdk",
   "kyotoUrl": ""
 }
