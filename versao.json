@@ -1,14 +1,14 @@
 {
-  "versionCode": 63,
-  "versionName": "58",
-  "title": "Sticker Pro 58 · Estúdio de fotos com várias fotos",
+  "versionCode": 64,
+  "versionName": "59",
+  "title": "Sticker Pro 59 · Backup no Google Drive",
   "notes": [
-    "Estúdio aberto pela tela inicial com até 50 fotos",
-    "Passe de uma foto para outra deslizando ou pelas miniaturas",
-    "Aplicar em todas, predefinições, Copiar/Colar e Anterior entre as fotos",
-    "Salvar na galeria, colocar num pacote ou criar pacote novo",
-    "Tudo salvo sozinho: continue de onde parou"
+    "Backup dos pacotes, originais, edições e predefinições no seu Google Drive",
+    "Restaurar tudo ao trocar de celular ou formatar",
+    "Backup automático diário ou semanal, só no Wi-Fi",
+    "Restauração segura: se algo falhar, volta como estava",
+    "Nova tela em Ajustes → Backup no Google Drive"
   ],
-  "url": "https://drive.google.com/file/d/1_XYxAeJYPDYcYLzBPYaeebYPiCKs1rRg/view?usp=drivesdk",
+  "url": "https://drive.google.com/file/d/1QjksZKs8iieMYOU9Vdm3RUDwEn9I41Tr/view?usp=drivesdk",
   "kyotoUrl": "https://linktr.ee/kyotoct"
 }
